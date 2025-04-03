@@ -1,0 +1,14 @@
+storeyID:ID,name,levelElevation:double,ifcGuid,:LABEL
+S001-EG,Erdgeschoss,0.0,ifc-guid-s001-eg,Storey
+S001-OG1,1. Obergeschoss,3.2,ifc-guid-s001-og1,Storey
+S001-OG2,2. Obergeschoss,6.4,ifc-guid-s001-og2,Storey
+S001-DG,Dachgeschoss,9.6,ifc-guid-s001-dg,Storey
+S002-UG,Untergeschoss,-2.8,ifc-guid-s002-ug,Storey
+S002-EG,Erdgeschoss,0.0,ifc-guid-s002-eg,Storey
+S002-OG1,1. Obergeschoss,4.0,ifc-guid-s002-og1,Storey
+S002-OG2,2. Obergeschoss,8.0,ifc-guid-s002-og2,Storey
+S003-EG,Erdgeschoss (Laden),0.0,ifc-guid-s003-eg,Storey
+S003-OG1,1. Obergeschoss (Wohnung),3.5,ifc-guid-s003-og1,Storey
+S003-OG2,2. Obergeschoss (Wohnung),7.0,ifc-guid-s003-og2,Storey
+S004-EG,Erdgeschoss,0.0,ifc-guid-s004-eg,Storey
+S004-OG1,1. Obergeschoss,3.0,ifc-guid-s004-og1,Storey
