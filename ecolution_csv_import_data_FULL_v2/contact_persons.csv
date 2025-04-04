@@ -1,0 +1,6 @@
+contactID:ID,firstName,lastName,email,phone,position,isPrimaryContact:boolean,:LABEL
+CP001,Markus,Müller,m.mueller@wohnbau-baden.ch,056 123 45 67,Verwaltung,True,ContactPerson
+CP002,Petra,Schmid,p.schmid@meier-treuhand.ch,056 987 65 43,Mandatsleiterin,True,ContactPerson
+CP003,Urs,Frei,u.frei@retail-brugg.ch,056 111 22 33,Geschäftsführer,True,ContactPerson
+CP004,Hans,Keller,h.keller@privat-mail.ch,079 555 66 77,,True,ContactPerson
+CP005,Sandra,Huber,s.huber@wohnbau-baden.ch,056 123 45 68,Buchhaltung,False,ContactPerson

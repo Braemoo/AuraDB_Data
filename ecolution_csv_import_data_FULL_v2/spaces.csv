@@ -1,0 +1,20 @@
+spaceID:ID,name,type,netFloorArea_m2:double,ifcGuid,:LABEL
+SP001-EG-W1,Wohnung 1 EG,Apartment,75.5,ifc-guid-sp-1egw1,Space
+SP001-EG-W2,Wohnung 2 EG,Apartment,72.0,ifc-guid-sp-1egw2,Space
+SP001-EG-C,Korridor EG,Corridor,12.0,ifc-guid-sp-1egc,Space
+SP001-EG-TR,Technikraum EG,TechnicalRoom,8.0,ifc-guid-sp-1egtr,Space
+SP001-OG1-W3,Wohnung 3 OG1,Apartment,74.0,ifc-guid-sp-1og1w3,Space
+SP001-OG1-W4,Wohnung 4 OG1,Apartment,76.5,ifc-guid-sp-1og1w4,Space
+SP001-OG1-C,Korridor OG1,Corridor,11.5,ifc-guid-sp-1og1c,Space
+SP002-EG-R01,Empfang,Reception,45.0,ifc-guid-sp-2egr01,Space
+SP002-EG-TR,Technikraum EG,TechnicalRoom,15.0,ifc-guid-sp-2egtr,Space
+SP002-OG1-B101,Büro 1.01,Office,30.0,ifc-guid-sp-2og1b101,Space
+SP002-OG1-B102,Büro 1.02,Office,28.5,ifc-guid-sp-2og1b102,Space
+SP002-OG1-M1,Meetingraum Alpha,MeetingRoom,35.0,ifc-guid-sp-2og1m1,Space
+SP002-OG1-C,Korridor OG1,Corridor,20.0,ifc-guid-sp-2og1c,Space
+SP003-EG-L1,Ladenfläche,Retail,150.0,ifc-guid-sp-3egl1,Space
+SP003-EG-S1,Lager,Storage,30.0,ifc-guid-sp-3egs1,Space
+SP003-EG-TR,Technikraum EG,TechnicalRoom,5.0,ifc-guid-sp-3egtr,Space
+SP003-OG1-W5,Wohnung 5 OG1,Apartment,90.0,ifc-guid-sp-3og1w5,Space
+SP004-EG-W1,Wohnung EG,Apartment,60.0,ifc-guid-sp-4egw1,Space
+SP004-OG1-W2,Wohnung OG1,Apartment,65.0,ifc-guid-sp-4og1w2,Space

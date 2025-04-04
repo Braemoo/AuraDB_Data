@@ -1,0 +1,6 @@
+permissionID:ID,action,resourceType,description,:LABEL
+PERM001,READ,Project,Projektdetails lesen,Permission
+PERM002,READ,Document,Dokumente lesen,Permission
+PERM003,WRITE,Project,Projekte bearbeiten/erstellen,Permission
+PERM004,READ,ClientList,Kundenliste sehen,Permission
+PERM005,WRITE,Configuration,Konfiguration ändern,Permission

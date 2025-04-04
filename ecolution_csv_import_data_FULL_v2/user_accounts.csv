@@ -1,0 +1,7 @@
+userID:ID,username,status,:LABEL
+UA001,m.mueller@wohnbau-baden.ch,active,UserAccount
+UA002,kevin.imhoff@ecolution.swiss,active,UserAccount
+UA003,pascal.braem@ecolution.swiss,active,UserAccount
+UA004,roger.sennhauser@ecolution.swiss,active,UserAccount
+UA005,seppli.meier@ecolution.swiss,active,UserAccount
+UA006,s.huber@wohnbau-baden.ch,invited,UserAccount

@@ -1,0 +1,7 @@
+locationID:ID,address,postalCode,city,canton,latitude:double,longitude:double,:LABEL
+L001,Sonnenweg 12,5400,Baden,AG,47.472,8.308,Location
+L002,Industriestrasse 5,5430,Wettingen,AG,47.467,8.321,Location
+L003,Altstadtgasse 7,5200,Brugg,AG,47.484,8.208,Location
+L004,Kellerweg 1,5400,Baden,AG,47.47,8.3,Location
+L005,"Wohnbau AG HQ, Bahnhofstrasse 1",5400,Baden,AG,47.475,8.305,Location
+L006,"Holding HQ, Zürichstrasse 100",8001,Zürich,ZH,47.376,8.541,Location

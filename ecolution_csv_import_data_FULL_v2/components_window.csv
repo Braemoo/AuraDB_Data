@@ -1,0 +1,10 @@
+componentID:ID,description,installationYear:int,uValue:double,gValue:double,ifcGuid,:LABEL
+W001-1EG1-1,Fenster W1 EG Süd,2015,1.1,0.6,ifc-guid-w-1eg1-1,Component;Window
+W001-1EG1-2,Fenster W1 EG West,2015,1.1,0.6,ifc-guid-w-1eg1-2,Component;Window
+W001-1EG2-1,Fenster W2 EG Süd,2015,1.1,0.6,ifc-guid-w-1eg2-1,Component;Window
+W001-1OG1W3-1,Fenster W3 OG1 Süd,2015,1.1,0.6,ifc-guid-w-1og1w3-1,Component;Window
+W002-1OG1B101-1,Fenster Büro 1.01 West,2012,0.9,0.5,ifc-guid-w-2og1b101-1,Component;Window
+W002-1OG1B101-2,Fenster Büro 1.01 Nord,2012,0.9,0.5,ifc-guid-w-2og1b101-2,Component;Window
+W003-1EGL1-1,Schaufenster Laden Front,2018,1.4,0.65,ifc-guid-w-3egl1-1,Component;Window
+W003-1OG1W5-1,Fenster Wohnung 5 Süd,2018,1.0,0.55,ifc-guid-w-3og1w5-1,Component;Window
+W004-1EGW1-1,Fenster Wohnung EG alt,1990,2.8,0.7,ifc-guid-w-4egw1-1,Component;Window

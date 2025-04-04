@@ -1,0 +1,5 @@
+componentID:ID,description,installationYear:int,energySource,power_kW:double,ifcGuid,:LABEL
+H001,Gasheizung MFH,2015,Gas,50.0,ifc-guid-h-001,Component;HeatingSystem
+H002,Wärmepumpe Büro,2012,Heat Pump,80.0,ifc-guid-h-002,Component;HeatingSystem
+H003,Ölheizung Gemischt,1995,Oil,65.0,ifc-guid-h-003,Component;HeatingSystem
+H004,Gas Etagenheizung,1990,Gas,25.0,ifc-guid-h-004,Component;HeatingSystem
