@@ -1,0 +1,9 @@
+documentID:ID,fileName,documentType,filePathOrURL,uploadTimestamp:datetime,versionNumber:int,isLatestVersion:boolean,:LABEL
+DOC001,Bericht_P001_B001_v2.pdf,Report,/docs/P001/Bericht_final.pdf,2023-09-10T14:30:00,2,True,Document
+DOC001-V1,Bericht_P001_B001_v1.pdf,Report,/docs/P001/Bericht_v1.pdf,2023-09-01T10:00:00,1,False,Document
+DOC002,Grundriss_B002_EG.dwg,Plan,/cad/B002/EG_Plan.dwg,2024-01-20T09:00:00,1,True,Document
+DOC003,Foto_Heizung_B004.jpg,Photo,/fotos/B004/Heizung_alt.jpg,2023-11-02T11:15:00,1,True,Document
+DOC004,Zertifikat_CERT001.pdf,CertificatePDF,/certs/CERT001_Scan.pdf,2023-09-16T10:00:00,1,True,Document
+DOC005,Offerte_P002.pdf,Offer,/docs/P002/Offerte.pdf,2024-01-10T17:00:00,1,True,Document
+DOC006,Vertrag_P002_signed.pdf,Contract,/docs/P002/Vertrag_signed.pdf,2024-01-15T11:00:00,1,True,Document
+DOC007,Plaene_B001_Scan.pdf,Plan,/docs/P001/Plaene_Scan.pdf,2023-05-11T09:30:00,1,True,Document

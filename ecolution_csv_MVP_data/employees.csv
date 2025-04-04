@@ -1,0 +1,6 @@
+employeeID:ID,firstName,lastName,jobTitle,isActive:boolean,:LABEL
+E001,Kevin,Imhoff,Partner / Lead Consultant,True,Employee;Consultant;Management
+E002,Pascal,Bräm,Energy Consultant,True,Employee;Consultant
+E003,Roger,Sennhauser,Consultant / Digital Twin Specialist,True,Employee;Consultant
+E004,Seppli,Meier,Office Administration,True,Employee;Admin
+E005,Maria,Rossi,Energy Consultant,False,Employee;Consultant

@@ -1,0 +1,8 @@
+buildingID:ID,buildingType,yearBuilt:int,addressStreet,:LABEL
+B001,Residential,1978,Sonnenweg 12,Building
+B002,Office,2012,Industriestrasse 5,Building
+B003,Mixed,1995,Altstadtgasse 7,Building
+B004,Residential,1965,Kellerweg 1,Building
+B005,Commercial,2005,Hauptstrasse 50,Building
+B006,Residential,1999,Bergstrasse 15,Building
+B007,Office,1988,Bahnhofplatz 3,Building

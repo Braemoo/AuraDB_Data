@@ -1,0 +1,11 @@
+userID:ID,username,status,:LABEL
+UA001,m.mueller@wohnbau-baden.ch,active,UserAccount
+UA002,kevin.imhoff@ecolution.swiss,active,UserAccount
+UA003,pascal.braem@ecolution.swiss,active,UserAccount
+UA004,roger.sennhauser@ecolution.swiss,active,UserAccount
+UA005,seppli.meier@ecolution.swiss,active,UserAccount
+UA006,s.huber@wohnbau-baden.ch,invited,UserAccount
+UA007,p.schmid@meier-treuhand.ch,active,UserAccount
+UA008,u.frei@retail-brugg.ch,active,UserAccount
+UA009,h.keller@privat-mail.ch,active,UserAccount
+UA010,b.zurfluh@immoinvest.ch,active,UserAccount

@@ -1,0 +1,4 @@
+rateID:ID,value_percent:double,description,validFrom:date,validUntil:date,regionScope,:LABEL
+FR001-AG-Solar,20.0,Fördersatz Solar Aargau 2024,2024-01-01,2024-12-31,AG,FundingRate
+FR002-CH-WP,15.0,Fördersatz WP Bund 2024,2024-01-01,,CH,FundingRate
+FR003-AG-Heiz,3000.0,Pauschale Heizungsersatz AG <20kW,2023-01-01,2023-12-31,AG,FundingRate

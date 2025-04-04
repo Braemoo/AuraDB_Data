@@ -1,0 +1,6 @@
+priceID:ID,value_CHF:double,unit,description,validFrom:date,validUntil:date,:LABEL
+SP001-GEAK,1200.0,CHF,Basispreis GEAK Plus Beratung EFH,2024-01-01,,ServicePrice
+SP002-GEAK-MFH,1800.0,CHF,Basispreis GEAK Plus Beratung MFH,2024-01-01,,ServicePrice
+SP003-AUDIT-H,180.0,CHF/h,Stundensatz Energieaudit,2024-01-01,,ServicePrice
+SP004-MINERGIE,2500.0,CHF,Pauschale Minergie Zert. EFH,2024-01-01,,ServicePrice
+SP005-HEATING,800.0,CHF,Pauschale Beratung Heizungsersatz EFH,2024-01-01,,ServicePrice

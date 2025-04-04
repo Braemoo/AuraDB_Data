@@ -1,0 +1,7 @@
+municipalityID:ID,name,postalCode,:LABEL
+BFS2401,Baden,5400,Municipality
+BFS2418,Wettingen,5430,Municipality
+BFS2451,Brugg,5200,Municipality
+BFS2500,Zürich,8001,Municipality
+BFS351,Bern,3000,Municipality
+BFS2403,Ennetbaden,5408,Municipality

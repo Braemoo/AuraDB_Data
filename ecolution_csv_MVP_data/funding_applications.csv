@@ -1,0 +1,4 @@
+applicationID:ID,status,amountRequested_CHF:double,amountApproved_CHF:double,submissionDate:date,decisionDate:date,fundingProgramName,:LABEL
+FA001,Submitted,5000.0,,2023-06-01,2023-07-15,Gebäudeprogramm Aargau,FundingApplication
+FA002,Approved,15000.0,12000.0,2023-11-15,2024-01-20,Energie Zukunft Schweiz,FundingApplication
+FA003,Draft,8000.0,,,,Gebäudeprogramm Aargau,FundingApplication
