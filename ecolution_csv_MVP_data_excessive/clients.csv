@@ -1,0 +1,13 @@
+clientID:ID,name,clientType,addressStreet,phone,email,creationTimestamp:datetime,lastModifiedTimestamp:datetime,:LABEL
+C001,Wohnbau AG Baden,Company,Bahnhofstrasse 1,056 123 45 67,info@wohnbau-baden.ch,2022-01-15T10:00:00,2024-03-01T11:00:00,Client
+C002,Meier & Partner Treuhand AG,Company,Treuhandweg 5,056 987 65 43,info@meier-treuhand.ch,2022-05-20T14:00:00,2023-12-10T09:30:00,Client
+C003,Retail Shop GmbH Brugg,Company,Altstadtgasse 7,056 111 22 33,info@retail-brugg.ch,2023-02-01T08:00:00,2023-02-01T08:00:00,Client
+C004,Hans Keller,Private,Kellerweg 1,079 555 66 77,h.keller@privat-mail.ch,2021-11-10T16:30:00,2023-11-01T10:00:00,Client
+C005,Wohnbau Holding AG,Company,Zürichstrasse 100,044 111 22 33,hq@wohnbau-holding.ch,2020-01-01T12:00:00,2022-08-15T13:00:00,Client
+C006,Immo Invest AG,Company,Marktgasse 10,031 321 45 67,kontakt@immoinvest.ch,2021-06-01T09:00:00,2021-06-01T09:00:00,Client
+C007,Schulgemeinde Ennetbaden,Public,Poststrasse 5,056 222 33 44,info@schule-ennetbaden.ch,2023-08-01T09:00:00,2023-08-01T09:00:00,Client
+C008,Anna Schneider,Private,Neubaugasse 8,078 111 22 33,anna.schneider@mail.ch,2023-10-01T11:00:00,2023-10-01T11:00:00,Client
+C009,Gastro AG,Company,Hauptstrasse 15,062 888 99 00,gastro@mail.com,2022-11-01T10:00:00,2024-01-10T10:00:00,Client
+C010,Gemeinde Würenlos,Public,Schulstrasse 1,056 436 87 00,gemeinde@wuerenlos.ch,2023-01-10T09:00:00,2023-01-10T09:00:00,Client
+C011,Peter Müller,Private,Bergstrasse 15,076 333 44 55,p.mueller@mail.ch,2023-07-15T18:00:00,2023-07-15T18:00:00,Client
+C012,Logistik Corp.,Company,Fabrikweg 11,056 500 10 20,info@logistik.com,2019-05-05T09:00:00,2023-06-06T09:00:00,Client

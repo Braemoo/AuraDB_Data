@@ -1,0 +1,26 @@
+buildingID:ID,buildingType,yearBuilt:int,addressStreet,:LABEL
+B001,Residential,1978,Sonnenweg 12,Building
+B002,Office,2012,Industriestrasse 5,Building
+B003,Mixed,1995,Altstadtgasse 7,Building
+B004,Residential,1965,Kellerweg 1,Building
+B005,Residential,1948,Strasse C-5,Building
+B006,Office,1980,Strasse C-6,Building
+B007,Residential,1987,Strasse A-7,Building
+B008,School,1975,Schulhausstrasse 1,Building
+B009,Residential,1964,Strasse C-9,Building
+B010,Industrial,2022,Strasse C-10,Building
+B011,School,1956,Strasse C-11,Building
+B012,School,1953,Strasse C-12,Building
+B013,Industrial,1924,Strasse C-13,Building
+B014,Office,1943,Strasse C-14,Building
+B015,School,1960,Strasse B-15,Building
+B016,Residential,1977,Strasse C-16,Building
+B017,School,2004,Strasse A-17,Building
+B018,Commercial,1998,Strasse B-18,Building
+B019,Office,1961,Strasse A-19,Building
+B020,Industrial,1930,Strasse A-20,Building
+B021,Office,1967,Strasse A-21,Building
+B022,Residential,1976,Strasse C-22,Building
+B023,Office,1969,Strasse A-23,Building
+B024,Mixed,1992,Strasse A-24,Building
+B025,School,2001,Strasse C-25,Building

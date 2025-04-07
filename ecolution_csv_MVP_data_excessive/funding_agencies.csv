@@ -1,0 +1,6 @@
+agencyID:ID,name,region,:LABEL
+AGY001,Abteilung Energie Kanton Aargau,AG,FundingAgency
+AGY002,Energie Zukunft Schweiz,CH,FundingAgency
+AGY003,Das Gebäudeprogramm,CH,FundingAgency
+AGY004,Energie Stadt Zürich,ZH,FundingAgency
+AGY005,Amt für Umwelt und Energie Kt. Luzern,LU,FundingAgency

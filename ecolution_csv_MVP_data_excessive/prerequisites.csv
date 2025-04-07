@@ -1,0 +1,14 @@
+prereqID:ID,description,status,dueDate:date,fulfillmentDate:date,:LABEL
+PR001,Termin für Begehung B002 vereinbart,fulfilled,2024-01-30,2024-01-25,Prerequisite
+PR002,Angebot P002 unterschrieben / Vertrag vorhanden,fulfilled,2024-01-15,2024-01-15,Prerequisite
+PR003,Gebäudepläne B001 erhalten,fulfilled,2023-05-15,2023-05-11,Prerequisite
+PR004,Freigabe Berichtsentwurf P001,fulfilled,2023-09-05,2023-09-08,Prerequisite
+PR005,Alle Daten für Minergie-Nachweis P003 gesammelt,pending,2024-05-01,,Prerequisite
+PR006,Kick-off Meeting P002 durchgeführt,fulfilled,2024-01-20,2024-01-16,Prerequisite
+PR007,Nächtlicher Datenabgleich Server XYZ,fulfilled,,2024-04-07,Prerequisite
+PR008,Statikbericht für Dachaufbau B003 vorhanden,pending,2024-04-30,,Prerequisite
+PR009,Offerte für P005 erstellt,fulfilled,2024-04-05,2024-04-02,Prerequisite
+PR010,Verbrauchsdaten B002 letzte 3 Jahre erhalten,fulfilled,2024-01-20,2024-01-18,Prerequisite
+PR011,Termin für Begehung B008 vereinbart,pending,2024-05-10,,Prerequisite
+PR012,Offerte P007 akzeptiert,pending,2024-03-01,,Prerequisite
+PR013,Baugesuch B003 genehmigt,pending,2024-06-01,,Prerequisite

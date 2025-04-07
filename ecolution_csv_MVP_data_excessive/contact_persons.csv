@@ -1,0 +1,15 @@
+contactID:ID,firstName,lastName,email,phone,position,isPrimaryContact:boolean,:LABEL
+CP001,Markus,Müller,m.mueller@wohnbau-baden.ch,056 123 45 67,Verwaltung,True,ContactPerson
+CP002,Petra,Schmid,p.schmid@meier-treuhand.ch,056 987 65 43,Mandatsleiterin,True,ContactPerson
+CP003,Urs,Frei,u.frei@retail-brugg.ch,056 111 22 33,Geschäftsführer,True,ContactPerson
+CP004,Hans,Keller,h.keller@privat-mail.ch,079 555 66 77,,True,ContactPerson
+CP005,Sandra,Huber,s.huber@wohnbau-baden.ch,056 123 45 68,Buchhaltung,False,ContactPerson
+CP006,Beat,Zurfluh,b.zurfluh@immoinvest.ch,031 321 45 68,Projektleiter Bau,True,ContactPerson
+CP007,Martin,Ammann,m.ammann@schule-ennetbaden.ch,056 222 33 45,Leiter Liegenschaften,True,ContactPerson
+CP008,Anna,Schneider,anna.schneider@mail.ch,078 111 22 33,,True,ContactPerson
+CP009,Peter,Graf,p.graf@wohnbau-holding.ch,044 111 22 34,CEO,True,ContactPerson
+CP010,Julia,Weber,j.weber@gastroag.ch,062 888 99 01,Management,True,ContactPerson
+CP011,Reto,Steiner,reto.steiner@wuerenlos.ch,056 436 87 10,Bauverwaltung,True,ContactPerson
+CP012,Peter,Müller,p.mueller@mail.ch,076 333 44 55,,True,ContactPerson
+CP013,Max,Mustermann,m.mustermann@logistik.com,056 500 10 21,Facility Manager,True,ContactPerson
+CP014,Eva,Moser,eva.moser@wohnbau-baden.ch,056 123 45 69,Projektleitung,False,ContactPerson

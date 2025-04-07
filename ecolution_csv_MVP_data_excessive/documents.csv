@@ -1,0 +1,16 @@
+documentID:ID,fileName,documentType,filePathOrURL,uploadTimestamp:datetime,versionNumber:int,isLatestVersion:boolean,:LABEL
+DOC001,Bericht_P001_B001_v2.pdf,Report,/docs/P001/Bericht_final.pdf,2023-09-10T14:30:00,2,True,Document
+DOC001-V1,Bericht_P001_B001_v1.pdf,Report,/docs/P001/Bericht_v1.pdf,2023-09-01T10:00:00,1,False,Document
+DOC002,Grundriss_B002_EG.dwg,Plan,/cad/B002/EG_Plan.dwg,2024-01-20T09:00:00,1,True,Document
+DOC003,Foto_Heizung_B004.jpg,Photo,/fotos/B004/Heizung_alt.jpg,2023-11-02T11:15:00,1,True,Document
+DOC004,Zertifikat_CERT001.pdf,CertificatePDF,/certs/CERT001_Scan.pdf,2023-09-16T10:00:00,1,True,Document
+DOC005,Offerte_P002.pdf,Offer,/docs/P002/Offerte.pdf,2024-01-10T17:00:00,1,True,Document
+DOC006,Vertrag_P002_signed.pdf,Contract,/docs/P002/Vertrag_signed.pdf,2024-01-15T11:00:00,1,True,Document
+DOC007,Plaene_B001_Scan.pdf,Plan,/docs/P001/Plaene_Scan.pdf,2023-05-11T09:30:00,1,True,Document
+DOC008,Offerte_P005_B007.pdf,Offer,/docs/P005/Offerte.pdf,2024-04-02T10:00:00,1,True,Document
+DOC009,Messprotokoll_WP002-2.xlsx,Data,/docs/P002/Messung_Huelle.xlsx,2024-03-15T16:00:00,1,True,Document
+DOC010,MinergieNachweis_P003_Entwurf_v1.pdf,Calculation,/docs/P003/Nachweis_v1.pdf,2024-04-05T11:00:00,1,True,Document
+DOC011,Empfehlung_P004_final.pdf,Report,/docs/P004/Empfehlung.pdf,2023-11-18T10:00:00,1,True,Document
+DOC012,Bericht_Audit_P006_Entwurf.pdf,Report,/docs/P006/Audit_v1.pdf,2024-06-10T10:00:00,1,True,Document
+DOC013,GEAK_Bericht_P007.pdf,Report,/docs/P007/GEAK_final.pdf,2024-03-20T15:00:00,1,True,Document
+DOC014,Offerte_P007_B006.pdf,Offer,/docs/P007/Offerte.pdf,2024-02-12T14:00:00,1,True,Document
