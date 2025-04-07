@@ -1,14 +1,51 @@
 prereqID:ID,description,status,dueDate:date,fulfillmentDate:date,:LABEL
 PR001,Termin für Begehung B002 vereinbart,fulfilled,2024-01-30,2024-01-25,Prerequisite
 PR002,Angebot P002 unterschrieben / Vertrag vorhanden,fulfilled,2024-01-15,2024-01-15,Prerequisite
-PR003,Gebäudepläne B001 erhalten,fulfilled,2023-05-15,2023-05-11,Prerequisite
-PR004,Freigabe Berichtsentwurf P001,fulfilled,2023-09-05,2023-09-08,Prerequisite
-PR005,Alle Daten für Minergie-Nachweis P003 gesammelt,pending,2024-05-01,,Prerequisite
-PR006,Kick-off Meeting P002 durchgeführt,fulfilled,2024-01-20,2024-01-16,Prerequisite
+PR003,Voraussetzung Nr. 3 (Vertrag),fulfilled,2023-05-18,2023-03-12,Prerequisite
+PR004,Voraussetzung Nr. 4 (Daten),fulfilled,2024-05-04,2023-10-16,Prerequisite
+PR005,Voraussetzung Nr. 5 (Freigabe),fulfilled,2023-04-27,2023-02-16,Prerequisite
+PR006,Voraussetzung Nr. 6 (Termin),pending,2023-03-20,,Prerequisite
 PR007,Nächtlicher Datenabgleich Server XYZ,fulfilled,,2024-04-07,Prerequisite
-PR008,Statikbericht für Dachaufbau B003 vorhanden,pending,2024-04-30,,Prerequisite
-PR009,Offerte für P005 erstellt,fulfilled,2024-04-05,2024-04-02,Prerequisite
-PR010,Verbrauchsdaten B002 letzte 3 Jahre erhalten,fulfilled,2024-01-20,2024-01-18,Prerequisite
-PR011,Termin für Begehung B008 vereinbart,pending,2024-05-10,,Prerequisite
-PR012,Offerte P007 akzeptiert,pending,2024-03-01,,Prerequisite
-PR013,Baugesuch B003 genehmigt,pending,2024-06-01,,Prerequisite
+PR008,Voraussetzung Nr. 8 (Vertrag),fulfilled,2023-01-28,2023-01-06,Prerequisite
+PR009,Voraussetzung Nr. 9 (Daten),pending,2024-08-05,,Prerequisite
+PR010,Voraussetzung Nr. 10 (Pläne),pending,2024-06-04,,Prerequisite
+PR011,Voraussetzung Nr. 11 (Daten),pending,2023-12-23,,Prerequisite
+PR012,Voraussetzung Nr. 12 (Termin),fulfilled,2023-02-11,2023-01-02,Prerequisite
+PR013,Voraussetzung Nr. 13 (Freigabe),pending,2023-10-21,,Prerequisite
+PR014,Voraussetzung Nr. 14 (Freigabe),fulfilled,2023-03-31,2023-03-04,Prerequisite
+PR015,Voraussetzung Nr. 15 (Vertrag),pending,2023-03-30,,Prerequisite
+PR016,Voraussetzung Nr. 16 (Vertrag),fulfilled,2024-01-12,2023-05-10,Prerequisite
+PR017,Voraussetzung Nr. 17 (Termin),fulfilled,2023-01-23,2023-01-14,Prerequisite
+PR018,Voraussetzung Nr. 18 (Termin),pending,2024-03-13,,Prerequisite
+PR019,Voraussetzung Nr. 19 (Freigabe),fulfilled,2024-04-16,2023-05-31,Prerequisite
+PR020,Voraussetzung Nr. 20 (Pläne),fulfilled,2024-02-25,2023-10-12,Prerequisite
+PR021,Voraussetzung Nr. 21 (Vertrag),fulfilled,2023-05-01,2023-01-08,Prerequisite
+PR022,Voraussetzung Nr. 22 (Vertrag),pending,2023-09-12,,Prerequisite
+PR023,Voraussetzung Nr. 23 (Vertrag),fulfilled,2023-03-18,2023-01-08,Prerequisite
+PR024,Voraussetzung Nr. 24 (Daten),pending,2024-09-03,,Prerequisite
+PR025,Voraussetzung Nr. 25 (Daten),pending,2024-02-23,,Prerequisite
+PR026,Voraussetzung Nr. 26 (Termin),fulfilled,2023-03-08,2023-01-15,Prerequisite
+PR027,Voraussetzung Nr. 27 (Freigabe),pending,2023-04-04,,Prerequisite
+PR028,Voraussetzung Nr. 28 (Termin),fulfilled,2023-10-23,2023-09-25,Prerequisite
+PR029,Voraussetzung Nr. 29 (Vertrag),pending,2023-03-03,,Prerequisite
+PR030,Voraussetzung Nr. 30 (Pläne),fulfilled,2024-04-12,2023-08-16,Prerequisite
+PR031,Voraussetzung Nr. 31 (Freigabe),pending,2024-07-06,,Prerequisite
+PR032,Voraussetzung Nr. 32 (Termin),pending,2023-02-26,,Prerequisite
+PR033,Voraussetzung Nr. 33 (Vertrag),fulfilled,2023-08-25,2023-04-29,Prerequisite
+PR034,Voraussetzung Nr. 34 (Pläne),fulfilled,2023-04-03,2023-03-23,Prerequisite
+PR035,Voraussetzung Nr. 35 (Vertrag),fulfilled,2024-03-19,2023-07-27,Prerequisite
+PR036,Voraussetzung Nr. 36 (Daten),fulfilled,2024-09-16,2023-11-15,Prerequisite
+PR037,Voraussetzung Nr. 37 (Freigabe),fulfilled,2024-02-23,2023-01-15,Prerequisite
+PR038,Voraussetzung Nr. 38 (Vertrag),fulfilled,2023-06-10,2023-05-31,Prerequisite
+PR039,Voraussetzung Nr. 39 (Vertrag),pending,2024-03-17,,Prerequisite
+PR040,Voraussetzung Nr. 40 (Daten),fulfilled,2023-08-27,2023-02-09,Prerequisite
+PR041,Voraussetzung Nr. 41 (Vertrag),fulfilled,2023-10-25,2023-02-03,Prerequisite
+PR042,Voraussetzung Nr. 42 (Freigabe),fulfilled,2023-06-13,2023-02-22,Prerequisite
+PR043,Voraussetzung Nr. 43 (Freigabe),fulfilled,2024-09-03,2024-01-30,Prerequisite
+PR044,Voraussetzung Nr. 44 (Termin),pending,2024-04-12,,Prerequisite
+PR045,Voraussetzung Nr. 45 (Pläne),pending,2024-08-19,,Prerequisite
+PR046,Voraussetzung Nr. 46 (Freigabe),fulfilled,2024-08-04,2024-02-10,Prerequisite
+PR047,Voraussetzung Nr. 47 (Freigabe),fulfilled,2023-04-21,2023-02-19,Prerequisite
+PR048,Voraussetzung Nr. 48 (Pläne),pending,2023-04-01,,Prerequisite
+PR049,Voraussetzung Nr. 49 (Vertrag),pending,2024-07-13,,Prerequisite
+PR050,Voraussetzung Nr. 50 (Freigabe),fulfilled,2023-07-17,2023-06-02,Prerequisite
