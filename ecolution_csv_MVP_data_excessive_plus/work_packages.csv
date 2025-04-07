@@ -1,0 +1,20 @@
+wpID:ID,name,description,status,sequence:int,:LABEL
+WP-P001-1,Datenerfassung Vor-Ort,Begehung und Aufnahme Gebäudehülle/Technik B001,Completed,1,WorkPackage
+WP-P001-2,Modellierung & Berechnung,Erstellung GEAK Berechnungsmodell,Completed,2,WorkPackage
+WP-P001-3,Berichtserstellung V1,Verfassen GEAK Plus Bericht v1,Completed,3,WorkPackage
+WP-P001-4,Abschluss & Übergabe V2,Finale Besprechung und Übergabe Bericht v2,Completed,4,WorkPackage
+WP-P002-1,Kick-off & Datenaufnahme,Auftaktmeeting und Sammlung Verbrauchsdaten B002,Completed,1,WorkPackage
+WP-P002-2,Analyse Gebäudehülle,Bewertung Zustand und U-Werte Hülle B002,Active,2,WorkPackage
+WP-P002-3,Analyse Gebäudetechnik,Bewertung Zustand Heizung/Lüftung/WW B002,Active,3,WorkPackage
+WP-P002-4,Massnahmen & Bericht,Entwicklung Massnahmen und Bericht Audit,Planning,4,WorkPackage
+WP-P003-1,Prüfung Planungsgrundlagen,Sichtung Architektenpläne für Minergie,Active,1,WorkPackage
+WP-P003-2,Nachweis erstellen,Erstellung Minergie-Nachweis,Planning,2,WorkPackage
+WP-P003-3,Einreichung & Zertifizierung,Unterlagen für Zertifizierungsstelle,Planning,3,WorkPackage
+WP-P004-1,Variantenstudie Heizung,Vergleich WP vs. Pellets für B004,Completed,1,WorkPackage
+WP-P004-2,Wirtschaftlichkeitsanalyse,Berechnung Investitions- und Betriebskosten,Completed,2,WorkPackage
+WP-P004-3,Empfehlungsbericht,Erstellung Bericht mit Empfehlung,Completed,3,WorkPackage
+WP-P006-1,Vorbesprechung Schulgemeinde,Definition Scope Audit B008,Active,1,WorkPackage
+WP-P006-2,Datenerfassung Schulhaus,Begehung B008,Planning,2,WorkPackage
+WP-P007-1,Datenerfassung MFH,Begehung B006,Completed,1,WorkPackage
+WP-P007-2,Berechnung GEAK,Modellierung B006,Active,2,WorkPackage
+WP-P008-1,Modellaufbau Simulation,Erstellung Simulationsmodell für B009,Planning,1,WorkPackage

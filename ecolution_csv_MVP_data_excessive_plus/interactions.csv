@@ -1,0 +1,81 @@
+interactionID:ID,type,direction,timestamp:datetime,summary,channel,:LABEL
+INT001,Call,out,2024-01-16T10:30:00,Kick-off call P002 mit Frau Schmid (C002),Phone,Interaction
+INT002,Email,in,2024-02-10T15:00:00,Anfrage von Herr Keller (C004) bezüglich Heizung,Email,Interaction
+INT003,Meeting,internal,2024-03-05T14:00:00,Projekt Review P003,Teams,Interaction
+INT004,Call,internal,2023-02-04T23:45:04,Zusammenfassung der Interaktion Nr. 4...,System,Interaction
+INT005,Email,in,2023-09-09T01:22:09,Zusammenfassung der Interaktion Nr. 5...,Teams,Interaction
+INT006,Email,out,2023-05-14T23:06:16,Zusammenfassung der Interaktion Nr. 6...,Email,Interaction
+INT007,Call,internal,2024-08-09T22:27:15,Zusammenfassung der Interaktion Nr. 7...,Email,Interaction
+INT008,Call,out,2023-09-10T17:36:24,Zusammenfassung der Interaktion Nr. 8...,In Person,Interaction
+INT009,Note,internal,2023-07-17T03:15:42,Zusammenfassung der Interaktion Nr. 9...,In Person,Interaction
+INT010,Call,in,2024-07-25T05:58:23,Zusammenfassung der Interaktion Nr. 10...,System,Interaction
+INT011,Call,out,2024-09-22T15:10:04,Zusammenfassung der Interaktion Nr. 11...,Teams,Interaction
+INT012,Note,in,2023-12-16T06:44:34,Zusammenfassung der Interaktion Nr. 12...,Phone,Interaction
+INT013,Meeting,internal,2023-05-28T21:22:22,Zusammenfassung der Interaktion Nr. 13...,Phone,Interaction
+INT014,Meeting,in,2023-07-30T16:46:45,Zusammenfassung der Interaktion Nr. 14...,Email,Interaction
+INT015,Call,internal,2024-09-15T10:09:14,Zusammenfassung der Interaktion Nr. 15...,Teams,Interaction
+INT016,Meeting,internal,2024-01-06T04:28:23,Zusammenfassung der Interaktion Nr. 16...,Teams,Interaction
+INT017,Call,in,2023-07-19T21:59:11,Zusammenfassung der Interaktion Nr. 17...,Teams,Interaction
+INT018,Email,out,2024-07-13T16:24:16,Zusammenfassung der Interaktion Nr. 18...,Teams,Interaction
+INT019,Note,out,2024-12-08T08:01:53,Zusammenfassung der Interaktion Nr. 19...,Teams,Interaction
+INT020,Note,internal,2024-04-19T19:00:50,Zusammenfassung der Interaktion Nr. 20...,In Person,Interaction
+INT021,Email,in,2023-10-07T22:05:35,Zusammenfassung der Interaktion Nr. 21...,In Person,Interaction
+INT022,Email,out,2024-11-25T00:44:20,Zusammenfassung der Interaktion Nr. 22...,Email,Interaction
+INT023,Call,internal,2024-12-16T01:40:39,Zusammenfassung der Interaktion Nr. 23...,In Person,Interaction
+INT024,Meeting,in,2024-03-03T08:51:29,Zusammenfassung der Interaktion Nr. 24...,Phone,Interaction
+INT025,Email,in,2024-06-16T11:38:12,Zusammenfassung der Interaktion Nr. 25...,Phone,Interaction
+INT026,Note,internal,2024-04-06T19:11:22,Zusammenfassung der Interaktion Nr. 26...,System,Interaction
+INT027,Note,internal,2023-03-06T21:28:39,Zusammenfassung der Interaktion Nr. 27...,In Person,Interaction
+INT028,Note,in,2025-03-22T13:51:55,Zusammenfassung der Interaktion Nr. 28...,Email,Interaction
+INT029,Email,in,2023-07-30T10:16:33,Zusammenfassung der Interaktion Nr. 29...,Teams,Interaction
+INT030,Note,internal,2024-01-23T19:10:49,Zusammenfassung der Interaktion Nr. 30...,Teams,Interaction
+INT031,Email,internal,2024-05-04T21:47:29,Zusammenfassung der Interaktion Nr. 31...,Phone,Interaction
+INT032,Meeting,out,2023-10-14T18:42:43,Zusammenfassung der Interaktion Nr. 32...,In Person,Interaction
+INT033,Meeting,out,2025-02-28T03:30:58,Zusammenfassung der Interaktion Nr. 33...,Teams,Interaction
+INT034,Note,in,2024-07-18T12:48:34,Zusammenfassung der Interaktion Nr. 34...,Email,Interaction
+INT035,Email,out,2024-11-23T12:35:47,Zusammenfassung der Interaktion Nr. 35...,In Person,Interaction
+INT036,Call,internal,2023-02-25T12:26:42,Zusammenfassung der Interaktion Nr. 36...,In Person,Interaction
+INT037,Note,in,2024-01-30T23:37:51,Zusammenfassung der Interaktion Nr. 37...,Email,Interaction
+INT038,Meeting,internal,2024-04-23T17:30:10,Zusammenfassung der Interaktion Nr. 38...,In Person,Interaction
+INT039,Meeting,out,2024-07-19T05:49:27,Zusammenfassung der Interaktion Nr. 39...,Teams,Interaction
+INT040,Call,out,2024-04-16T02:46:22,Zusammenfassung der Interaktion Nr. 40...,In Person,Interaction
+INT041,Email,internal,2025-02-21T18:36:51,Zusammenfassung der Interaktion Nr. 41...,In Person,Interaction
+INT042,Call,out,2023-02-18T00:39:46,Zusammenfassung der Interaktion Nr. 42...,Email,Interaction
+INT043,Call,in,2024-09-15T15:53:16,Zusammenfassung der Interaktion Nr. 43...,Teams,Interaction
+INT044,Call,internal,2025-02-01T01:42:40,Zusammenfassung der Interaktion Nr. 44...,In Person,Interaction
+INT045,Meeting,out,2023-06-08T15:43:50,Zusammenfassung der Interaktion Nr. 45...,Phone,Interaction
+INT046,Call,internal,2023-02-16T21:35:35,Zusammenfassung der Interaktion Nr. 46...,System,Interaction
+INT047,Email,out,2023-12-15T23:08:41,Zusammenfassung der Interaktion Nr. 47...,Teams,Interaction
+INT048,Meeting,out,2025-01-03T21:48:13,Zusammenfassung der Interaktion Nr. 48...,Phone,Interaction
+INT049,Call,internal,2025-01-23T16:41:18,Zusammenfassung der Interaktion Nr. 49...,Phone,Interaction
+INT050,Note,in,2024-08-20T06:38:37,Zusammenfassung der Interaktion Nr. 50...,In Person,Interaction
+INT051,Call,out,2023-07-13T05:50:57,Zusammenfassung der Interaktion Nr. 51...,Phone,Interaction
+INT052,Email,out,2024-01-16T16:44:05,Zusammenfassung der Interaktion Nr. 52...,Phone,Interaction
+INT053,Meeting,out,2024-05-05T15:38:50,Zusammenfassung der Interaktion Nr. 53...,System,Interaction
+INT054,Meeting,in,2024-01-07T19:29:02,Zusammenfassung der Interaktion Nr. 54...,Phone,Interaction
+INT055,Call,internal,2023-10-26T16:19:29,Zusammenfassung der Interaktion Nr. 55...,In Person,Interaction
+INT056,Email,out,2023-12-20T15:02:23,Zusammenfassung der Interaktion Nr. 56...,Email,Interaction
+INT057,Email,out,2024-09-29T16:14:45,Zusammenfassung der Interaktion Nr. 57...,In Person,Interaction
+INT058,Meeting,internal,2023-05-29T06:09:15,Zusammenfassung der Interaktion Nr. 58...,Phone,Interaction
+INT059,Email,out,2023-12-18T09:57:03,Zusammenfassung der Interaktion Nr. 59...,Email,Interaction
+INT060,Note,internal,2023-04-18T15:14:23,Zusammenfassung der Interaktion Nr. 60...,Email,Interaction
+INT061,Call,in,2023-03-27T20:16:23,Zusammenfassung der Interaktion Nr. 61...,System,Interaction
+INT062,Email,out,2024-12-30T06:55:02,Zusammenfassung der Interaktion Nr. 62...,Phone,Interaction
+INT063,Note,in,2023-03-14T16:15:18,Zusammenfassung der Interaktion Nr. 63...,System,Interaction
+INT064,Email,out,2025-03-09T21:51:20,Zusammenfassung der Interaktion Nr. 64...,Email,Interaction
+INT065,Email,in,2025-01-02T23:17:10,Zusammenfassung der Interaktion Nr. 65...,System,Interaction
+INT066,Note,out,2023-01-21T15:44:15,Zusammenfassung der Interaktion Nr. 66...,Teams,Interaction
+INT067,Email,in,2024-05-19T22:21:36,Zusammenfassung der Interaktion Nr. 67...,Phone,Interaction
+INT068,Call,internal,2024-12-12T06:36:47,Zusammenfassung der Interaktion Nr. 68...,In Person,Interaction
+INT069,Note,internal,2024-08-20T20:09:48,Zusammenfassung der Interaktion Nr. 69...,In Person,Interaction
+INT070,Note,out,2025-02-26T21:17:54,Zusammenfassung der Interaktion Nr. 70...,In Person,Interaction
+INT071,Email,in,2023-10-31T21:35:49,Zusammenfassung der Interaktion Nr. 71...,Phone,Interaction
+INT072,Call,in,2025-01-09T05:02:18,Zusammenfassung der Interaktion Nr. 72...,Teams,Interaction
+INT073,Email,in,2024-07-21T22:57:50,Zusammenfassung der Interaktion Nr. 73...,Teams,Interaction
+INT074,Call,out,2023-08-29T19:27:55,Zusammenfassung der Interaktion Nr. 74...,System,Interaction
+INT075,Call,in,2024-08-31T04:22:15,Zusammenfassung der Interaktion Nr. 75...,Phone,Interaction
+INT076,Email,in,2024-11-03T13:28:52,Zusammenfassung der Interaktion Nr. 76...,Email,Interaction
+INT077,Email,in,2023-11-30T04:30:08,Zusammenfassung der Interaktion Nr. 77...,Email,Interaction
+INT078,Call,internal,2023-05-11T12:40:24,Zusammenfassung der Interaktion Nr. 78...,In Person,Interaction
+INT079,Call,out,2023-01-30T17:59:59,Zusammenfassung der Interaktion Nr. 79...,Teams,Interaction
+INT080,Email,in,2024-12-12T23:29:22,Zusammenfassung der Interaktion Nr. 80...,Teams,Interaction

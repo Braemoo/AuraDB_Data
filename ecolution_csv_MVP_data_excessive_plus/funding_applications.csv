@@ -1,0 +1,31 @@
+applicationID:ID,status,amountRequested_CHF:double,amountApproved_CHF:double,submissionDate:date,decisionDate:date,fundingProgramName,:LABEL
+FA001,Approved,5000.0,4500.0,2023-06-01,2023-07-15,Gebäudeprogramm Aargau,FundingApplication
+FA002,Paid Out,15000.0,12000.0,2023-11-15,2024-01-20,Energie Zukunft Schweiz,FundingApplication
+FA003,Draft,73378.0,,,,Energie Schweiz,FundingApplication
+FA004,Approved,61656.0,56466.0,2023-01-19,2023-02-18,Gemeindebeitrag,FundingApplication
+FA005,Submitted,14622.0,,2023-01-03,,Gebäudeprogramm,FundingApplication
+FA006,Draft,37936.0,,,,Kantonales Programm,FundingApplication
+FA007,Draft,39058.0,,,,Gemeindebeitrag,FundingApplication
+FA008,Approved,48073.0,41123.0,2023-04-05,2024-02-27,Gebäudeprogramm,FundingApplication
+FA009,Submitted,10240.0,,2023-01-04,,Gebäudeprogramm,FundingApplication
+FA010,Submitted,31987.0,,2023-02-05,,Gebäudeprogramm,FundingApplication
+FA011,Rejected,34937.0,,2024-01-31,2024-02-28,Energie Schweiz,FundingApplication
+FA012,Submitted,15066.0,,2024-03-07,,Kantonales Programm,FundingApplication
+FA013,Paid Out,74628.0,38932.0,2024-02-01,2024-03-15,Kantonales Programm,FundingApplication
+FA014,Submitted,40314.0,,2024-02-07,,Energie Schweiz,FundingApplication
+FA015,Rejected,30839.0,,2024-02-12,2024-02-25,Energie Schweiz,FundingApplication
+FA016,Submitted,31153.0,,2023-01-08,,Gemeindebeitrag,FundingApplication
+FA017,Approved,38148.0,22814.0,2023-01-17,2023-05-19,Gebäudeprogramm,FundingApplication
+FA018,Paid Out,54288.0,35547.0,2023-09-18,2024-02-06,Kantonales Programm,FundingApplication
+FA019,Draft,33392.0,,,,Gemeindebeitrag,FundingApplication
+FA020,Paid Out,7428.0,4172.0,2023-11-30,2024-01-08,Energie Schweiz,FundingApplication
+FA021,Rejected,54750.0,,2024-03-02,2024-04-04,Kantonales Programm,FundingApplication
+FA022,Draft,4277.0,,,,Kantonales Programm,FundingApplication
+FA023,Rejected,50280.0,,2023-03-16,2023-07-20,Energie Schweiz,FundingApplication
+FA024,Rejected,16475.0,,2023-09-06,2024-02-23,Gemeindebeitrag,FundingApplication
+FA025,Draft,63043.0,,,,Gebäudeprogramm,FundingApplication
+FA026,Submitted,22179.0,,2023-12-17,,Gemeindebeitrag,FundingApplication
+FA027,Submitted,28570.0,,2024-03-16,,Gemeindebeitrag,FundingApplication
+FA028,Submitted,46243.0,,2024-02-27,,Gemeindebeitrag,FundingApplication
+FA029,Paid Out,36636.0,30698.0,2023-06-17,2023-08-31,Gebäudeprogramm,FundingApplication
+FA030,Rejected,32326.0,,2023-11-17,2024-01-28,Gemeindebeitrag,FundingApplication

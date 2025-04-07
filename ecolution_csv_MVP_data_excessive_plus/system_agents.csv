@@ -1,0 +1,4 @@
+agentID:ID,name,type,:LABEL
+SYS001,Nightly Maintenance Bot,Automation,SystemAgent
+SYS002,Data Import Script,System,SystemAgent
+SYS003,Energy Simulation AI,AI,SystemAgent

@@ -1,0 +1,5 @@
+roleID:ID,roleName,description,:LABEL
+R001,ClientViewer,Kann Projektdetails und Dokumente für eigene Gebäude sehen.,Role
+R002,Consultant,Kann Projekte bearbeiten und erstellen.,Role
+R003,Admin,Voller Zugriff auf alle Daten und Einstellungen.,Role
+R004,Management,Übersicht über Projekte und Finanzen.,Role

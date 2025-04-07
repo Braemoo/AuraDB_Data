@@ -1,0 +1,26 @@
+clientID:ID,name,clientType,addressStreet,phone,email,creationTimestamp:datetime,lastModifiedTimestamp:datetime,:LABEL
+C001,Wohnbau AG Baden,Company,Bahnhofstrasse 1,056 123 45 67,info@wohnbau-baden.ch,2022-01-15T10:00:00,2024-03-01T11:00:00,Client
+C002,Meier & Partner Treuhand AG,Company,Treuhandweg 5,056 987 65 43,info@meier-treuhand.ch,2022-05-20T14:00:00,2023-12-10T09:30:00,Client
+C003,Retail Shop GmbH Brugg,Company,Altstadtgasse 7,056 111 22 33,info@retail-brugg.ch,2023-02-01T08:00:00,2023-02-01T08:00:00,Client
+C004,"Keller, Hans",Private,Kellerweg 1,079 555 66 77,h.keller@privat-mail.ch,2021-11-10T16:30:00,2023-11-01T10:00:00,Client
+C005,Wohnbau Holding AG,Company,Zürichstrasse 100,044 111 22 33,hq@wohnbau-holding.ch,2020-01-01T12:00:00,2022-08-15T13:00:00,Client
+C006,Zeta Industrie -6,Company,Musterstrasse 6,078 861 94 53,zeta@mail-example.com,2023-01-08T00:43:30,2023-09-03T01:58:40,Client
+C007,Schulgemeinde Ennetbaden,Public,Poststrasse 5,056 222 33 44,info@schule-ennetbaden.ch,2023-08-01T09:00:00,2023-08-01T09:00:00,Client
+C008,Kanton Aargau BVD,Public,Musterstrasse 8,075 832 64 82,info-bvd@mail-example.com,2022-03-14T07:49:36,2024-01-04T13:53:49,Client
+C009,Alpha Bau AG -9,Company,Musterstrasse 9,048 351 89 80,alpha1@mail-example.com,2024-03-02T13:52:20,2024-10-11T08:55:14,Client
+C010,Beta Immo Services Plus-10,Company,Musterstrasse 10,048 657 74 82,beta@mail-example.com,2021-07-07T19:35:28,2023-01-11T23:33:20,Client
+C011,Kanton Aargau BVD,Public,Musterstrasse 11,055 329 74 43,info-bvd1@mail-example.com,2022-01-15T05:34:37,2024-06-27T13:42:11,Client
+C012,Theta Gastro AG -12,Company,Musterstrasse 12,078 239 27 55,theta1@mail-example.com,2024-04-04T13:26:16,2024-01-27T15:12:58,Client
+C013,Schulgemeinde Wettingen,Public,Musterstrasse 13,048 389 29 84,info-wettingen1@mail-example.com,2024-03-09T16:04:56,2023-05-25T23:52:19,Client
+C014,Alpha Bau AG Plus-14,Company,Musterstrasse 14,065 901 85 18,alpha2@mail-example.com,2020-07-29T22:28:22,2024-11-24T09:38:25,Client
+C015,"Schneider, Peter",Private,Musterstrasse 15,048 426 83 99,p.schneider@mail-example.com,2025-03-13T12:34:26,2023-10-14T20:39:59,Client
+C016,Theta Gastro AG -16,Company,Musterstrasse 16,031 339 34 48,theta2@mail-example.com,2024-04-02T23:38:42,2024-03-30T01:05:00,Client
+C017,"Weber, Peter",Private,Musterstrasse 17,038 755 59 13,p.weber@mail-example.com,2023-09-16T07:23:16,2023-08-16T23:43:48,Client
+C018,Delta Logistics -18,Company,Musterstrasse 18,059 122 65 83,delta@mail-example.com,2022-06-15T06:21:37,2024-07-14T10:55:41,Client
+C019,Schulgemeinde Wettingen,Public,Musterstrasse 19,071 882 88 95,info-wettingen2@mail-example.com,2022-08-05T21:16:33,2024-07-08T11:55:25,Client
+C020,"Meier, Sandra",Private,Musterstrasse 20,070 938 37 86,s.meier@mail-example.com,2024-04-28T19:08:08,2023-03-15T06:37:42,Client
+C021,Epsilon Treuhand -21,Company,Musterstrasse 21,070 966 72 37,epsilon1@mail-example.com,2022-04-04T12:40:57,2024-08-24T13:59:16,Client
+C022,Beta Immo Services -22,Company,Musterstrasse 22,075 598 29 22,beta1@mail-example.com,2025-02-14T20:36:30,2024-11-19T22:35:24,Client
+C023,Epsilon Treuhand -23,Company,Musterstrasse 23,076 424 38 77,epsilon2@mail-example.com,2020-02-29T10:09:42,2025-01-23T00:57:48,Client
+C024,Stadt Brugg,Public,Musterstrasse 24,037 421 89 39,info-brugg@mail-example.com,2021-09-01T22:46:52,2025-01-22T20:17:51,Client
+C025,Eta Verwaltung GmbH -25,Company,Musterstrasse 25,042 251 90 66,eta@mail-example.com,2024-05-31T22:18:16,2024-05-25T07:55:37,Client

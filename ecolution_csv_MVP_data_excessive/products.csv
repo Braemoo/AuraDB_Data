@@ -1,6 +1,0 @@
-productID:ID,name,description,:LABEL
-PROD-GEAK,GEAK Plus,Gebäudeenergieausweis der Kantone mit Beratungsbericht,Product
-PROD-AUDIT,Energieaudit,Umfassende Analyse Energieflüsse und Einsparpotential,Product
-PROD-MINERGIE,Minergie Zertifizierung,Begleitung Prozess für Minergie Label,Product
-PROD-HEATING-CONS,Beratung Heizungsersatz,Variantenstudie und Empfehlung Heizsystem,Product
-PROD-THERM-SIM,Thermische Simulation,Detaillierte Gebäudesimulation,Product
