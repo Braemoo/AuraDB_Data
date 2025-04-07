@@ -1,5 +1,0 @@
-configID:ID,key,value,unit,type,:LABEL
-CONF001,price.service.geakplus.base.chf,1200,CHF,ServicePrice,Configuration
-CONF002,rate.funding.kanton.ag.solar.percent,20,%,FundingRate,Configuration
-CONF003,cost.material.insulation.mineralwolle.chf_m2,45,CHF/m2,MaterialCost,Configuration
-CONF004,param.simulation.default_temp.celsius,20,°C,Parameter,Configuration

@@ -1,5 +1,0 @@
-documentID:ID,fileName,documentType,filePathOrURL,uploadTimestamp:datetime,:LABEL
-DOC001,Bericht_P001_B001.pdf,Report,/docs/P001/Bericht_final.pdf,2023-09-10T14:30:00,Document
-DOC002,Grundriss_B002_EG.dwg,Plan,/cad/B002/EG_Plan.dwg,2024-01-20T09:00:00,Document
-DOC003,Foto_Heizung_B004.jpg,Photo,/fotos/B004/Heizung_alt.jpg,2023-11-02T11:15:00,Document
-DOC004,Zertifikat_CERT001.pdf,CertificatePDF,/certs/CERT001_Scan.pdf,2023-09-16T10:00:00,Document

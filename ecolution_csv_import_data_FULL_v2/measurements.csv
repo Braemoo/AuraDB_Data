@@ -1,4 +1,0 @@
-measurementID:ID,timestamp:datetime,value:double,unit,source,:LABEL
-MEAS001,2023-04-15T12:00:00,22.5,°C,Sensor_B002_Office101,Measurement
-MEAS002,2023-04-15T13:00:00,22.7,°C,Sensor_B002_Office101,Measurement
-MEAS003,2023-05-01T00:00:00,15000.0,kWh,ManualReading_B001_Total,Measurement

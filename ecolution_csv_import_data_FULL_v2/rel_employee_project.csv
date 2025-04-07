@@ -1,8 +1,0 @@
-:START_ID,:END_ID,role_in_project,:TYPE
-E001,P001,Lead Consultant,WORKED_ON
-E002,P001,Consultant,WORKED_ON
-E001,P002,Project Lead,WORKED_ON
-E003,P002,Digital Twin Support,WORKED_ON
-E002,P003,Lead Consultant,WORKED_ON
-E003,P003,BIM Coordination,WORKED_ON
-E002,P004,Consultant,WORKED_ON

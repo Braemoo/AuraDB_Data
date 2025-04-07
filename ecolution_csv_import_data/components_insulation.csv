@@ -1,4 +1,0 @@
-componentID:ID,description,installationYear:int,material,thickness_mm:int,locationInBuilding,ifcGuid,:LABEL
-I001-Dach,Dachdämmung MFH,2015,Mineralwolle,200,Roof,ifc-guid-i-001-dach,Component;Insulation
-I002-Dach,Dachdämmung Büro Flachdach,2012,XPS,220,Roof,ifc-guid-i-002-dach,Component;Insulation
-I003-Fassade,Fassadendämmung Gemischt,2018,EPS,160,Facade,ifc-guid-i-003-fassade,Component;Insulation

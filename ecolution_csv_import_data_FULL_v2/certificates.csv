@@ -1,4 +1,0 @@
-certificateID:ID,type,version,issueDate:date,expiryDate:date,efficiencyClassEnvelope,efficiencyClassOverall,:LABEL
-CERT001,GEAK,2017,2023-09-15,2033-09-14,C,D,Certificate
-CERT002,Minergie Vorzertifikat,2023,2024-03-20,,A,A,Certificate
-CERT003,GEAK,2009,2023-12-01,2033-11-30,F,G,Certificate

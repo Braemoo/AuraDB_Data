@@ -1,4 +1,0 @@
-tariffID:ID,tariffName,price_kWh:double,baseFee_CHF:double,currency,validFrom:date,validUntil:date,:LABEL
-TARIF001,AEW Basic Strom,0.25,5.0,CHF,2024-01-01,2024-12-31,EnergyTariff
-TARIF002,EKZ Naturstrom Star,0.28,6.5,CHF,2024-01-01,2024-12-31,EnergyTariff
-TARIF003,AEW Gas Classic,0.15,10.0,CHF,2024-01-01,,EnergyTariff

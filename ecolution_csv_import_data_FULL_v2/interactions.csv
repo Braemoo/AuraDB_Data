@@ -1,4 +1,0 @@
-interactionID:ID,type,direction,timestamp:datetime,summary,channel,:LABEL
-INT001,Call,out,2024-01-16T10:30:00,Kick-off call P002 mit Frau Schmid (C002),Phone,Interaction
-INT002,Email,in,2024-02-10T15:00:00,Anfrage von Herr Keller (C004) bezüglich Heizung,Email,Interaction
-INT003,Meeting,internal,2024-03-05T14:00:00,Projekt Review P003,Meeting,Interaction

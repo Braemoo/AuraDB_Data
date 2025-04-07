@@ -1,6 +1,0 @@
-projectID:ID,projectName,projectType,status,startDate:date,endDate:date,creationTimestamp:datetime,lastModifiedTimestamp:datetime,statusChangeTimestamp:datetime,:LABEL
-P001,GEAK Plus MFH Sonnenweg,GEAK Plus,Completed,2023-05-10,2023-09-15,2023-05-01T10:00:00,2023-09-15T10:00:00,2023-09-15T10:00:00,Project
-P002,Energieaudit Büro Wettingen,Energy Audit,Active,2024-01-15,,2024-01-15T08:30:00,2024-02-01T09:00:00,2024-01-15T08:30:00,Project
-P003,Minergie-Zertifizierung Neubau Brugg,Minergie Certification,Planning,2024-03-01,,2024-03-01T11:00:00,2024-03-01T11:00:00,2024-03-01T11:00:00,Project
-P004,Heizungsersatz EFH Keller,Consulting,Completed,2023-11-01,2023-11-20,2023-10-20T15:00:00,2023-11-20T16:00:00,2023-11-20T16:00:00,Project
-P005,GEAK Analyse Büro Zürich,GEAK,Inquiry,,,2024-04-01T14:00:00,2024-04-01T14:00:00,2024-04-01T14:00:00,Project
